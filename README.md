@@ -1,4 +1,4 @@
-﻿https://github.com/Myto007/FYP1101_004D_ET-.git
+﻿
 recorridos = { 
     'R001': ['Santiago', 'Valparaíso', 120, 'normal', 'día', True],
     'R002': ['Santiago', 'Concepción', 500, 'cama', 'noche', True],
